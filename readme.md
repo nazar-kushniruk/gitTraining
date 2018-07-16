@@ -3,5 +3,5 @@
 - create .gitignore
 - create readme.md
 - training commits
-- treaning push
+- training push
 - create new branches	
